@@ -23,4 +23,4 @@ function walletStatus(asset) {
 walletStatus(asset)
 setInterval(() => {
   walletStatus(asset)
-}, 30000)
+}, 20000)
